@@ -1,6 +1,3 @@
-vibecoded software 
-
-fov rage - lets you change your fov from 30 to 179
-only in the mod's settings, chatgpt couldn't make 
-the original solder work and i hit the limit 
-compile through GitHub
+vibecoded software for Horizon/Starling
+If you want to upload your vibecoded.hmods here feel free
+ill maybe create mods by request 
